@@ -1,0 +1,7 @@
+{
+  "name": "demologinapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
